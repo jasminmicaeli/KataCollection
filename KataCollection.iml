@@ -55,6 +55,8 @@
       <sourceFolder url="file://$MODULE_DIR$/YouAreARobot/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/CountCharactersInYourString/kata" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CountCharactersInYourString/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/EmotionalSort/kata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EmotionalSort/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
