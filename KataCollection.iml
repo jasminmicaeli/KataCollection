@@ -57,8 +57,12 @@
       <sourceFolder url="file://$MODULE_DIR$/CountCharactersInYourString/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/EmotionalSort/kata" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/EmotionalSort/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/FindTheParityOutlier/kata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FindTheParityOutlier/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/MexicanWave/kata" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MexicanWave/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/TicTacToeChecker/kata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TicTacToeChecker/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
