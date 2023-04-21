@@ -65,6 +65,8 @@
       <sourceFolder url="file://$MODULE_DIR$/TicTacToeChecker/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/PlayingWithDigits/kata" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PlayingWithDigits/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/MostFrequentlyUsedWordsInAText/kata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MostFrequentlyUsedWordsInAText/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
