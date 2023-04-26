@@ -67,6 +67,10 @@
       <sourceFolder url="file://$MODULE_DIR$/PlayingWithDigits/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/MostFrequentlyUsedWordsInAText/kata" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MostFrequentlyUsedWordsInAText/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/StyleRankingSystem/kata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StyleRankingSystem/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/MoreZerosThanOnes/kata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MoreZerosThanOnes/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
