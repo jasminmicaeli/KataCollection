@@ -71,6 +71,8 @@
       <sourceFolder url="file://$MODULE_DIR$/StyleRankingSystem/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/MoreZerosThanOnes/kata" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MoreZerosThanOnes/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/FindTheUniqueNumber/kata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FindTheUniqueNumber/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/MeanSquareError/kata" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MeanSquareError/test" isTestSource="true" />
     </content>
